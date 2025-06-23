@@ -42,4 +42,10 @@ Inserción de datos a la Base de Datos desde archivos csv y Excel. Creación de 
 <li>
 Uso de asincronía en python con asyncio. Solicitudes HTTP asíncronas con aiohttp y transacciones asíncronas con psycopg3
 </li>
+<li>
+Segundo Examen Parcial
+</li>
+<li>
+Creación de interfaz gráfica de usuario con tkinter. Empaquetar la aplicación de python con pyinstaller
+</li>
 </ol>
