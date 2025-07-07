@@ -48,4 +48,10 @@ Segundo Examen Parcial
 <li>
 Creación de interfaz gráfica de usuario con tkinter. Empaquetar la aplicación de python con pyinstaller
 </li>
+<li>
+Creando una aplicación web con formulario html, a la cual le damos funcionamiento con la librería Flask de Python 
+</li>
+<li>
+Agregando funcionalidades de editar y eliminar a las aplicaciones hechas en clases pasadas. Uso del widget treeview de tkinter, uso del gestor de plantillas jinja2 con flask para añadir información y funcionalidad a la página.
+</li>
 </ol>
