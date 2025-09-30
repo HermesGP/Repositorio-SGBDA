@@ -16,7 +16,7 @@ Programación Orientada a Objetos en Python
 Clases, Objetos, Atributos, Métodos, Polimorfismo y Encapsulamiento
 </li>
 <li>
-Uso de la librería requests para hacer solicitudes HTTP y obtener datos de la web
+Uso de la librería requests para hacer solicitudes HTTP y obtener datos de la web, creación de una aplicación servidora API Web con Flask
 </li>
 <li>
 Primer Examen parcial
