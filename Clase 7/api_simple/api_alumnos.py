@@ -12,7 +12,7 @@ alumnos = [
 # Ruta principal
 @app.route('/')
 def inicio():
-    return "Bienvenido a la API de alumnos 🎓"
+    return "Bienvenido a AlumnosAPI"
 
 # Obtener todos los alumnos
 @app.route('/alumnos', methods=['GET'])
