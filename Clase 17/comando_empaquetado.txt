@@ -1,0 +1,5 @@
+Comando para empaquetar tu script de python con pyinstaller en un solo archivo
+python -m PyInstaller --onefile tu_script.py
+
+Comando para empaquetar tu script de python (que usa tkinter) con pyinstaller en un solo archivo
+python -m PyInstaller --onefile --windowed tu_script.py

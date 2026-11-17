@@ -12,7 +12,7 @@ async def solicitud_datos_lista_paises(paises):
     async with aiohttp.ClientSession() as sesion:
         tasks = []
         for pais in paises:
-            url = f"https://restcountries.com/v3.1/translation/{pais}"
+            url = f"https://restcountries.conventus.de/v3.1/translation/{pais}"
             task = solicitud_datos_pais(sesion, url)
             tasks.append(task)
         results = await asyncio.gather(*tasks)
